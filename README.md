@@ -1,2 +1,2 @@
-# VueTraining
+# VueJs Training
 VueTraining - Integon
